@@ -1,0 +1,36 @@
+<svg width="220" height="70" viewBox="0 0 220 70" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Fundo invisível -->
+  <rect width="220" height="70" fill="transparent"/>
+
+  <!-- Ícone pincel -->
+  <rect x="10" y="15" width="8" height="40" rx="3" fill="#ff6b00"/>
+  <polygon points="14,10 22,18 6,18" fill="#333"/>
+
+  <!-- TL -->
+  <text x="35" y="42"
+        font-family="Segoe UI, Arial, sans-serif"
+        font-size="28"
+        font-weight="700"
+        fill="#222">
+        TL
+  </text>
+
+  <!-- Nome -->
+  <text x="75" y="30"
+        font-family="Segoe UI, Arial, sans-serif"
+        font-size="18"
+        font-weight="600"
+        fill="#111">
+        Thiago Lopes
+  </text>
+
+  <!-- Subtítulo -->
+  <text x="75" y="50"
+        font-family="Segoe UI, Arial, sans-serif"
+        font-size="12"
+        fill="#666">
+        Pintor Profissional
+  </text>
+
+</svg>
